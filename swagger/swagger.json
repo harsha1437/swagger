@@ -3,7 +3,7 @@
   "info" : {
     "version" : "1.0.0",
     "title" : "swagger simple API",
-    "description" : "A simple Swagger example."
+    "description" : "A simple Swagger example 01"
   },
   "host" : "example.com",
   "basePath" : "/api",
